@@ -1,0 +1,159 @@
+body{
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color:#ffffff;
+}
+ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+
+/* styles head */
+.logo{
+  font-family: "Raleway", sans-serif;
+  color: #4d5ae5;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.logo-studio{
+  color: #2e2f42;
+}
+
+.menu{
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+ }
+ .menu-item{
+  color: #2e2f42;
+ }
+ .menu-item:hover, .menu-item:focus, .menu-item:active{
+  color: #404bbf;
+ }
+.contacs{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-style: normal;
+}
+.contacs-link{
+  color: #434455;
+}
+.contacs-link:hover, .contacs-link:focus{
+  color: #404bbf;
+} 
+
+/* styles hero */
+.hero{
+  background: #2e2f42;
+ }
+.hero-title{
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  color: #fff;
+  text-align: center;
+}
+.hero-button{
+  background: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  cursor: pointer;
+ }
+ .hero-button:hover, .hero-button:focus{
+  background-color: #404bbf;
+ }
+
+ /* styles section 1 */
+.advantages-title{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2; 
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+ .advantages-text{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* styles section 2 */
+.team{
+  background-color: #F4F4FD;
+}
+.team-title{
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+ }
+ .team-card{
+  background-color: #FFFFFF;
+ }
+.team-caption{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  }
+.team-worker{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* styles section 3 */
+.projects-title{
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.projects-card{
+  background: #fff;
+
+}
+.projects-card-caption{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.projects-card-text{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* styles footer */
+footer{
+  background: #2e2f42;
+}
+.footer-text{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.footer-logo-studio{
+  color: #f4f4fd;
+}
