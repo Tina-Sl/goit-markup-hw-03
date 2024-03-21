@@ -18,7 +18,7 @@ img {
   display: block;
 }
 .container { 
-  max-width: 1158рх;  
+  max-width: 1158px;  
   padding-left: 15px; 
   padding-right: 15px; 
   margin: 0 auto;
@@ -109,6 +109,7 @@ img {
   margin-bottom: 43px;
  }
 .hero-btn{
+  display: block;
   background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
